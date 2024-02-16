@@ -1489,3 +1489,17 @@ ModuleNotFoundError: No module named 'polars'
 [2024-02-16T01:18:00.009+0000] {logging_mixin.py:188} INFO - [2024-02-16T01:18:00.009+0000] {dag.py:3036} INFO - Sync 1 DAGs
 [2024-02-16T01:18:00.027+0000] {logging_mixin.py:188} INFO - [2024-02-16T01:18:00.027+0000] {dag.py:3823} INFO - Setting next_dagrun for dag_1 to 2024-02-16 00:00:00+00:00, run_after=2024-02-17 00:00:00+00:00
 [2024-02-16T01:18:00.044+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dag_1.py took 0.064 seconds
+[2024-02-16T01:18:30.684+0000] {processor.py:161} INFO - Started process (PID=7743) to work on /opt/airflow/dags/dag_1.py
+[2024-02-16T01:18:30.685+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dag_1.py for tasks to queue
+[2024-02-16T01:18:30.686+0000] {logging_mixin.py:188} INFO - [2024-02-16T01:18:30.686+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/dag_1.py
+[2024-02-16T01:18:30.696+0000] {processor.py:840} INFO - DAG(s) 'dag_1' retrieved from /opt/airflow/dags/dag_1.py
+[2024-02-16T01:18:30.708+0000] {logging_mixin.py:188} INFO - [2024-02-16T01:18:30.708+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-16T01:18:30.722+0000] {logging_mixin.py:188} INFO - [2024-02-16T01:18:30.722+0000] {dag.py:3823} INFO - Setting next_dagrun for dag_1 to 2024-02-16 00:00:00+00:00, run_after=2024-02-17 00:00:00+00:00
+[2024-02-16T01:18:30.739+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dag_1.py took 0.056 seconds
+[2024-02-16T01:19:01.468+0000] {processor.py:161} INFO - Started process (PID=7799) to work on /opt/airflow/dags/dag_1.py
+[2024-02-16T01:19:01.469+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dag_1.py for tasks to queue
+[2024-02-16T01:19:01.469+0000] {logging_mixin.py:188} INFO - [2024-02-16T01:19:01.469+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/dag_1.py
+[2024-02-16T01:19:01.480+0000] {processor.py:840} INFO - DAG(s) 'dag_1' retrieved from /opt/airflow/dags/dag_1.py
+[2024-02-16T01:19:01.493+0000] {logging_mixin.py:188} INFO - [2024-02-16T01:19:01.493+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-16T01:19:01.508+0000] {logging_mixin.py:188} INFO - [2024-02-16T01:19:01.508+0000] {dag.py:3823} INFO - Setting next_dagrun for dag_1 to 2024-02-16 00:00:00+00:00, run_after=2024-02-17 00:00:00+00:00
+[2024-02-16T01:19:01.524+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dag_1.py took 0.058 seconds
