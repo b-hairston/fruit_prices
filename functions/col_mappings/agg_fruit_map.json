@@ -1,0 +1,33 @@
+
+{
+    "AggFruit" :{
+        "Fruit": "FRUIT",
+        "Form": "FORM",
+        "RetailPrice": "RETAIL_PRICE",
+        "Yield": "YIELD",
+        "CupEquivalentSize": "CUP_EQUIVALENT_SIZE",
+        "CupEquivalentUnit": "CUP_EQUIVALENT_UNIT",
+        "CupEquivalentPrice": "CUP_EQUIVALENT_PRICE"
+    },
+    "AggVegetable" :{
+        "Vegetable": "VEGETABLE",
+        "Form": "FORM",
+        "RetailPrice": "RETAIL_PRICE",
+        "Yield": "YIELD",
+        "CupEquivalentSize": "CUP_EQUIVALENT_SIZE",
+        "CupEquivalentUnit": "CUP_EQUIVALENT_UNIT",
+        "CupEquivalentPrice": "CUP_EQUIVALENT_PRICE"
+    },
+    "IndvFruit" :{
+        "Form": "FORM",
+        "Average retail price": "RETAIL_PRICE",
+        "Preparation": "PREPARATION",
+        "Size of a ": "CUP_EQUIVALENT_SIZE"
+        "Average price": "CUP_EQUIVALENT_PRICE"
+        "CupEquivalentSize": "CUP_EQUIVALENT_SIZE",
+        "CupEquivalentUnit": "CUP_EQUIVALENT_UNIT",
+        "CupEquivalentPrice": "CUP_EQUIVALENT_PRICE"
+    },
+    
+    
+}
